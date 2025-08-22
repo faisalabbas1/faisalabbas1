@@ -50,7 +50,8 @@ With over **12 years of experience** in software development and architectural d
 ## 📫 Get in Touch  
 
 - 📧 Email: [faisalabbas443@gmail.com](mailto:faisalabbas443@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/faisal-abbas-29740224](https://linkedin.com/in/faisal-abbas-29740224)  
-- 🌐 Portfolio: [faisalabbas1.github.io](https://faisalabbas1.github.io/)
+- 💼 LinkedIn: [linkedin.com/in/faisal-abbas-29740224 ↗](https://linkedin.com/in/faisal-abbas-29740224)  
+- 🌐 Portfolio: [faisalabbas1.github.io ↗](https://faisalabbas1.github.io/)
+
 
 ---

@@ -9,7 +9,7 @@ With over **12 years of experience** in software development and architectural d
 ## 🚀 What I Do  
 
 - **Front-End Development**: Crafting intuitive and responsive UIs using **React, Angular, Vue.js**, and **Next.js**.  
-- **Back-End Development**: Designing and implementing efficient server-side solutions with **Node.js, NestJS, Express, Python, and Java**.  
+- **Back-End Development**: Designing and implementing efficient server-side solutions with **Node.js, NestJS, Express and PHP**.  
 - **Database Management**: Ensuring data integrity and performance with **SQL, NoSQL**, and **cloud-native databases**.  
 - **Cloud Services**: Leveraging **AWS, Azure, and Google Cloud** for scalable and secure applications.  
 - **DevOps**: Streamlining processes with **CI/CD pipelines**, containerization (**Docker, Kubernetes**), and automation tools.  
@@ -49,8 +49,8 @@ With over **12 years of experience** in software development and architectural d
 
 ## 📫 Get in Touch  
 
-- 📧 Email: [faisalabbas112@gmail.com](mailto:faisalabbas443@gmail.com)  
+- 📧 Email: [faisalabbas443@gmail.com](mailto:faisalabbas443@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/faisal-abbas-29740224](https://linkedin.com/in/faisal-abbas-29740224)  
-- 🌐 Portfolio: [faisalabbas.com](https://[faisalabbas.com](https://faisalabbas1.github.io/))
+- 🌐 Portfolio: [faisalabbas1.github.io](https://[faisalabbas.com](https://faisalabbas1.github.io/))
 
 ---

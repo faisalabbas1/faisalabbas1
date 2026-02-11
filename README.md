@@ -38,15 +38,6 @@ With over **7 years of experience** in software development and architectural de
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalabbas1&show_icons=true&theme=tokyonight" alt="Faisal's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalabbas1&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>  
-
----
-
 ## 📫 Get in Touch  
 
 - 📧 Email: [faisalabbas443@gmail.com](mailto:faisalabbas443@gmail.com)  
